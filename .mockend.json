@@ -1,0 +1,42 @@
+[
+  {
+    "phoneNumber" : 1234567890,
+    "emailId" : "person1@gmail.com",
+    "userName" : "person1"
+  },
+  {
+    "phoneNumber" : 1234567890,
+    "emailId" : "person2@gmail.com",
+    "userName" : "person2"
+  },
+  {
+    "phoneNumber" : 1234567890,
+    "emailId" : "person3@gmail.com",
+    "userName" : "person3"
+  },
+  {
+    "phoneNumber" : 1234567890,
+    "emailId" : "person4@gmail.com",
+    "userName" : "person4"
+  },
+  {
+    "phoneNumber" : 2121212121,
+    "emailId" : "tharan@gmail.com",
+    "userName" : "tharan"
+  },
+  {
+    "phoneNumber" : 8989898989,
+    "emailId" : "tharan@mail.com",
+    "userName" : "tharanee"
+  },
+  {
+    "phoneNumber" : 9090909099,
+    "emailId" : "tharaneedharan@gmail.cmo",
+    "userName" : "tharaneedharan"
+  },
+  {
+    "phoneNumber" : 987654321,
+    "emailId" : "hello@gmail.com",
+    "userName" : "hello"
+  }
+]
