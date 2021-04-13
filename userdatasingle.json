@@ -1,5 +1,5 @@
 {
-  userName = "tharan",
-  phoneNumber = "123456789",
-  emailID = "tharan@gmail.com"
+   "phoneNumber" : 1234567890,
+   "emailId" : "person1@gmail.com",
+   "userName" : "person1"
 }
