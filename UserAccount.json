@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 1,
+    "name" : "person1",
+    "balance" : "1000.00"
+    "initialBalance" : "1000.00"
+    "totalBalance" : "1000.00"
+  },
+  {
+    "id" : 2,
+    "name" : "person2",
+    "balance" : "1001.00"
+    "initialBalance" : "1001.00"
+    "totalBalance" : "1001.00"
+  },
+  {
+    "id" : 3,
+    "name" : "person3",
+    "balance" : "1003.00"
+    "initialBalance" : "1003.00"
+    "totalBalance" : "1003.00"
+  },
+  {
+    "id" : 4,
+    "name" : "person4",
+    "balance" : "1004.00"
+    "initialBalance" : "1004.00"
+    "totalBalance" : "1004.00"
+  }
+]
